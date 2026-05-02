@@ -75,7 +75,8 @@ Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/462f0dd3-df8b-44d5-9d65-4dfb51d00371" width="90%" />
   <img src="https://github.com/user-attachments/assets/2a6b5442-e4b9-4aca-b996-ab451d6eda27" width="90%" />
-  <img src="https://github.com/user-attachments/assets/0b7bcabf-de80-4293-bc13-f7ddce97a72c" width="90%" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/6c187624-115c-4ed0-94c5-388934a119be" />
+
 </p>
 
 ---
@@ -83,3 +84,12 @@ Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
 ## ⭐ Destek
 
 Projeyi beğendiysen ⭐ bırakmayı unutma.
+---
+
+## 🎁 Özel Hedef
+
+> ⭐ Bu repo **30 yıldız** ulaştığında proje herkese açık olarak paylaşılacaktır!
+
+Destek olmak için ⭐ bırakmayı unutma 🚀
+
+---
