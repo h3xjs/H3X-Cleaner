@@ -1,3 +1,18 @@
+# 🚀 H3X Cleaner
+
+> 🧹 Discord mesajlarını hızlı, güvenli ve kontrol edilebilir şekilde temizle.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/659c4ef7-b47a-48f4-80f4-5714b2aa532e" width="90%" />
+</p>
+
+---
+
+## ⚡ Genel Bakış
+
+**H3X Cleaner**, Discord üzerinde kendi mesajlarını yönetmek isteyen kullanıcılar için geliştirilmiş modern bir temizleme aracıdır.
+
+Basit kullanım + güçlü filtreleme + güvenli işlem = ⚡ maksimum kontrol
 
 ---
 
@@ -13,13 +28,13 @@
 
 ## ✨ Özellikler
 
-- 🎯 Kanal ID ile otomatik çalışma (DM / grup / sunucu fark etmez)
-- 🔍 Kelimeye göre filtreleme
+- 🎯 Kanal ID ile çalışma (DM / Grup / Sunucu)
+- 🔍 Kelime bazlı filtreleme
 - 📅 Tarihe göre filtreleme
 - ⚡ Rate limit korumalı silme sistemi
-- 🧾 Canlı log paneli
 - 👁️ Silmeden önce önizleme
-- 🛑 İşlem durdurma
+- 🧾 Canlı log paneli
+- 🛑 İşlemi durdurabilme
 - 🎨 Modern ve hızlı arayüz
 
 ---
@@ -29,6 +44,8 @@
 - ❌ Token kaydedilmez  
 - ❌ Token hiçbir yere gönderilmez  
 - ✅ Sadece uygulama içinde kullanılır  
+
+> 🔒 Tüm işlemler lokal olarak çalışır.
 
 ---
 
@@ -42,8 +59,8 @@ Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
 
 ## 🖥️ Gereksinimler
 
-- Windows 10 / 11
-- İnternet bağlantısı
+- Windows 10 / 11  
+- İnternet bağlantısı  
 
 ---
 
@@ -52,5 +69,17 @@ Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
 > v1.0.0
 
 ---
-## Görseller
-<img width="1204" height="746" alt="image" src="https://github.com/user-attachments/assets/10ce7417-226b-423f-9040-37d9f1a98afc" />
+
+## 📸 Görseller
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/462f0dd3-df8b-44d5-9d65-4dfb51d00371" width="90%" />
+  <img src="https://github.com/user-attachments/assets/2a6b5442-e4b9-4aca-b996-ab451d6eda27" width="90%" />
+  <img src="https://github.com/user-attachments/assets/0b7bcabf-de80-4293-bc13-f7ddce97a72c" width="90%" />
+</p>
+
+---
+
+## ⭐ Destek
+
+Projeyi beğendiysen ⭐ bırakmayı unutma.
