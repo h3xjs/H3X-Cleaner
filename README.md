@@ -74,6 +74,7 @@ Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/462f0dd3-df8b-44d5-9d65-4dfb51d00371" width="90%" />
+  <img src="https://github.com/user-attachments/assets/0483de4a-5b6f-45bb-bfa9-649a9ef9a132" width="90%" />
   <img src="https://github.com/user-attachments/assets/2a6b5442-e4b9-4aca-b996-ab451d6eda27" width="90%" />
   <img src="https://github.com/user-attachments/assets/6c187624-115c-4ed0-94c5-388934a119be" width="90%" />
 
