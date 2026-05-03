@@ -1,137 +1,96 @@
-# 🚀 H3X Self Backup System
+# 🚀 H3X Cleaner
+
+> 🧹 Discord mesajlarını hızlı, güvenli ve kontrol edilebilir şekilde temizle.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb8607f9-4f7a-4a96-a886-32b89efd0d0c" width="100%" alt="H3X Banner"/>
-</p>
-![Uploading image.png…]()
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-dfff00?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Status-Active-35ff83?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stars-Goal%2030⭐-69a7ff?style=for-the-badge"/>
+  <img src="https://github.com/user-attachments/assets/659c4ef7-b47a-48f4-80f4-5714b2aa532e" width="90%" />
 </p>
 
 ---
 
-## 🧠 Hakkında
+## ⚡ Genel Bakış
 
-**H3X Self Backup**, Discord sunucularını modern arayüz üzerinden **adım adım analiz edip** hedef sunucuya mümkün olan en yakın şekilde aktarmak için geliştirilmiş premium bir backup sistemidir.
+**H3X Cleaner**, Discord üzerinde kendi mesajlarını yönetmek isteyen kullanıcılar için geliştirilmiş modern bir temizleme aracıdır.
 
-Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu görünüm ayarlarını kontrol ederek **RAM tabanlı geçici yedek** oluşturur ve kurulum işlemini **canlı log paneli üzerinden takip etmeni sağlar**.
-
----
-
-## ✨ Özellikler
-
-- 🔐 Token doğrulama ekranı  
-- 📡 Kopyalanacak sunucu analiz sistemi  
-- 🎯 Kurulum yapılacak hedef sunucu doğrulama  
-- ⚡ RAM tabanlı ultra hızlı backup  
-- 🧹 Hedef sunucuyu temizleyerek sıfırdan kurulum  
-- 🏷️ Rol ikonları ve emoji rollerini kopyalama  
-- 🖼️ Sunucu adı + icon + banner kopyalama  
-- 🧩 Kategori / kanal / rol sırasını birebir koruma  
-- 🔒 Kanal izinlerini rollere göre yeniden eşleme  
-- 🚫 Kurulmayacak rol seçme sistemi  
-- 🚫 Kurulmayacak kanal / kategori filtreleme  
-- ✏️ Toplu isim düzenleme sistemi  
-- 🧾 Canlı log ve işlem takip paneli  
-- 🎨 Neon temalı modern H3X arayüz  
-
----
-
-## 🖼️ Görseller
-
-### 1️⃣ Token Doğrulama
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b1df2610-e70b-40ef-a9f6-31f3701f3092" width="100%"/>
-</p>
-
----
-
-### 2️⃣ Kopyalanacak Sunucu
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d5699ab4-69ec-4031-a1a5-38ae22fa5388" width="100%"/>
-</p>
-
----
-
-### 3️⃣ Kurulum Sunucusu
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dc47d73f-4213-4b01-a956-8e83928dabb2" width="100%"/>
-</p>
-
----
-
-### 4️⃣ Kurulmayacak Roller
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/827d7186-4148-4190-90a5-babe15321a8b" width="100%"/>
-</p>
-
----
-
-### 5️⃣ Kanal / Kategori Filtreleme
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8a91d7b5-b9b3-4698-9fc6-08a8637394bb" width="100%"/>
-</p>
-
----
-
-### 6️⃣ Toplu İsim Düzenleme
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3810fadf-cd54-41f0-a3da-89ef023bf1de" width="100%"/>
-</p>
-
----
-
-### 7️⃣ Kurulum Ayarları
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ef1c7526-1835-4650-b43e-f8380101f32b" width="100%"/>
-</p>
-
----
-
-### 8️⃣ Son Önizleme
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ac24c5bf-470d-4c08-9c60-e341c33274ac" width="100%"/>
-</p>
-
----
-
-### 9️⃣ Canlı Log Paneli
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/41af48b4-5f74-4d3d-976c-865838c78f93" width="100%"/>
-</p>
+Basit kullanım + güçlü filtreleme + güvenli işlem = ⚡ maksimum kontrol
 
 ---
 
 ## ⚙️ Kullanım
 
 1. 🔑 Token gir → doğrula  
-2. 📡 Kopyalanacak sunucu ID gir → analiz et  
-3. 🎯 Kurulum yapılacak sunucu ID gir → doğrula  
-4. ⚙️ Filtreleri ve ayarları yap  
-5. 🚀 Backup başlat  
+2. 📡 Kanal ID gir  
+3. 🔎 Mesajları tara  
+4. 👀 Önizle  
+5. 🗑️ Sil  
 
 ---
 
-## ✏️ İsim Düzenleme Sistemi
+## ✨ Özellikler
 
-Rol, kanal ve kategori isimlerini toplu olarak değiştirebilirsin.
+- 🎯 Kanal ID ile çalışma (DM / Grup / Sunucu)
+- 🔍 Kelime bazlı filtreleme
+- 📅 Tarihe göre filtreleme
+- ⚡ Rate limit korumalı silme sistemi
+- 👁️ Silmeden önce önizleme
+- 🧾 Canlı log paneli
+- 🛑 İşlemi durdurabilme
+- 🎨 Modern ve hızlı arayüz
 
-> 💡 Bir sembolü kaldırmak istiyorsan **Değiştir kısmını boş bırakman yeterli.**
+---
 
-### Örnek:
+## 🛡️ Güvenlik
 
-```txt
-Bul: ✦
-Değiştir:
+- ❌ Token kaydedilmez  
+- ❌ Token hiçbir yere gönderilmez  
+- ✅ Sadece uygulama içinde kullanılır  
+
+> 🔒 Tüm işlemler lokal olarak çalışır.
+
+---
+
+## ⚠️ Uyarı
+
+Bu uygulama sadece **kendi mesajlarını yönetmek** amacıyla geliştirilmiştir.
+
+Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
+
+---
+
+## 🖥️ Gereksinimler
+
+- Windows 10 / 11  
+- İnternet bağlantısı  
+
+---
+
+## 📦 Sürüm
+
+> v1.0.0
+
+---
+
+## 📸 Görseller
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/462f0dd3-df8b-44d5-9d65-4dfb51d00371" width="90%" />
+  <img src="https://github.com/user-attachments/assets/0483de4a-5b6f-45bb-bfa9-649a9ef9a132" width="90%" />
+  <img src="https://github.com/user-attachments/assets/2a6b5442-e4b9-4aca-b996-ab451d6eda27" width="90%" />
+  <img src="https://github.com/user-attachments/assets/6c187624-115c-4ed0-94c5-388934a119be" width="90%" />
+
+</p>
+
+---
+
+## ⭐ Destek
+
+Projeyi beğendiysen ⭐ bırakmayı unutma.
+---
+
+## 🎁 Özel Hedef
+
+> ⭐ Bu repo **30 yıldız** ulaştığında proje herkese açık olarak paylaşılacaktır!
+
+Destek olmak için ⭐ bırakmayı unutma 🚀
+
+---
